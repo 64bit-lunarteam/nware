@@ -4,6 +4,17 @@ Nyatchiware is a piece of networking software built for beginner - moderate hack
 # - Preview -
 ![preview](github-preview.png)
 
+# - Features -
+- Scanning IPs for open ports
+- DDoSing websites
+- Can perform traceroutes to IPs or domains
+- IP geolocation tool
+- IP pinging
+- Command prompt (cmd) emulator
+- Can retrieve your local IP
+- DNS lookups
+- Retrieve hostnames of IPs
+
 # - License & Terms of Use -
 This project is licensed under the GNU General Public License v3.0
 ```js
